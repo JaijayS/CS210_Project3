@@ -1,4 +1,12 @@
 # CS210_Project3
+Springer_CS210_Poject3 files:
+- CS210_Project_Three_Input_File.txt // Input file given for the assignment. This is utilzed in the program to determine the number of items. 
+- Frequency_List.dat // Example of output file for Option 2
+- Histogram_List.dat// Example of output file for Option 3
+- Input_Item.dat // Example of output file for Option 1
+- Springer_CS210_Project3.cpp // Source code
+
+
 1. Summarize the project and what problem it was solving.
 Scenario
 
